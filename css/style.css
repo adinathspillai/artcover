@@ -363,6 +363,8 @@ section {
 }
 
 .nav-solid #logo #banner-logo {
+    max-width: 200px;
+max-height: 200px;
     display: none;
 }
 
