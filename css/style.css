@@ -353,7 +353,7 @@ section {
 }
 
 #logo img {
-    max-height: 22px;
+    max-height: 200px;
     vertical-align: middle;
     margin-right: 15px;
 }
@@ -363,9 +363,7 @@ section {
 }
 
 .nav-solid #logo #banner-logo {
-    max-width: 200px;
-max-height: 200px;
-    display: none;
+   display: none;
 }
 
 .nav-solid #logo #navigation-logo {
